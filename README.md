@@ -5,7 +5,7 @@ I built a train test splitter for time series data, to appropriately forwardtest
 This forwardtesting time series cross-validator allows you to start at a given date, set the size of the test set and specify an offset between train and test set if needed.
 
 ## Try out the forwardtesting validator
-To try out the validator yourself, run the following:
+To try out the validator yourself. Install the requirements and run the following:
 ```
 python exmaple.py
 ```
